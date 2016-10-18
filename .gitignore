@@ -1,0 +1,11 @@
+new_client/Debug/
+new_serv/Debug/
+new_client/Release/
+new_serv/Release/
+Debug/
+Release/
+ipch/
+/*.opensdf
+/*.pdb
+/*.suo
+/*.sdf
